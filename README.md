@@ -119,8 +119,7 @@ A full-stack social media application developed for institutions.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloodBlinker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="BloodBlinker's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloodBlinker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BloodBlinker&theme=tokyonight" alt="BloodBlinker's Profile Details" />
 </div>
 <br />
 <div align="center">
