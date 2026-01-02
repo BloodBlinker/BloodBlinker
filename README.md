@@ -127,6 +127,4 @@ A full-stack social media application developed for institutions.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BloodBlinker&theme=tokyonight" alt="BloodBlinker's Profile Details" />
 </div>
 <br />
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BloodBlinker&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+
