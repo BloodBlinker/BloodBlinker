@@ -33,6 +33,11 @@ I thrive in the details—whether it's optimizing AL code for performance or ana
 
 ## 🚀 Featured Projects
 
+### **VanguardProtocol**
+*In Development* | *Flutter, Dart*
+A cross-platform mobile application built using Flutter For Athletes And Fighters. Currently in active development.
+
+
 ### **MBOX to PST Email Migration Tool**
 *Nov 2024 - Present* | *Python*
 A robust, open-source Python application designed to convert MBOX email archives into PST format for seamless integration with Microsoft Outlook.
